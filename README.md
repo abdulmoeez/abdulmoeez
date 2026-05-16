@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abdul Moeez</h1>
-<h3 align="center">Founder @ WebQA • Full-Stack Developer • Building SaaS & Web Platforms</h3>
+<h3 align="center">Co Founder @ WebQA • Full-Stack Developer • Building SaaS & Web Platforms</h3>
 
 ---
 
