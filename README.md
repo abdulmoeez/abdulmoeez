@@ -1,37 +1,65 @@
-# Hi, I'm Abdul Moeez 👋
+<h1 align="center">Hi 👋, I'm Abdul Moeez</h1>
+<h3 align="center">Founder @ WebQA • Full-Stack Developer • Building SaaS & Web Platforms</h3>
 
-I am a full-stack web developer and Computer Science student with 5+ years of experience building websites, SaaS platforms, dashboards, and custom web applications.
+---
 
-Since 2019, I’ve completed 300+ freelance projects through Fiverr and direct client work, working with Laravel, React, PHP, JavaScript, WordPress, APIs, and scalable web systems.
+- 🚀 Currently building **WebQA**, a SaaS platform for automated website auditing, SEO, performance & security analysis
 
-I am also the Co Founder and Lead Developer of WebQA, a SaaS platform focused on automated website auditing, SEO, performance, accessibility, security, and technical health.
+- 💻 Full-stack developer with **5+ years** of experience and **300+ freelance projects** completed
 
-## 🚀 What I work with
+- 🧠 Working with **Laravel, React, PHP, JavaScript, MySQL, Redis & Linux**
 
-- Laravel, PHP, MySQL
-- JavaScript, React, Next.js
-- HTML, CSS, Tailwind CSS
-- WordPress, APIs, SaaS platforms
-- Redis, Nginx, Linux, Git
-- Web scraping, automation, dashboards, 2d & 3D Canvas Apps
+- ⚡ Built dashboards, SaaS tools, business platforms, automation systems & frontend interfaces for clients worldwide
 
-## 🛠 Featured Projects
+- 🏆 Fiverr Level 2 Seller since 2019
 
-### WebQA
-A SaaS platform for automated website auditing, including SEO, performance, accessibility, security, and technical health checks.
+- ♟ President of the University Of Manitoba Chess Club & CUCC 2026 competitor
 
-### Reclaim
-A campus lost-and-found platform built during .devHacks 2026 to help students report, search, and recover lost items.
+- 🌱 Currently learning more about scalable systems, AI integrations & product engineering
 
-### CoronavirusPak
-A Laravel/PHP public awareness platform with blogs, a tracker map, and a self-assessment tool.
+- 📫 Reach me at: **abdulmoeez.me@gmail.com**
 
-### Cupello Tactics Board
-Interactive football tactics board work using React, JavaScript, and canvas-based interactions.
+- 🌐 Portfolio: **https://moeez.ca**
 
-## 📫 Connect with me
+---
 
-- Portfolio: https://moeez.ca
-- LinkedIn: https://www.linkedin.com/in/abdul-moeez/
-- Fiverr: https://www.fiverr.com/flake_webby/
-- Instagram: https://instagram.com/moeez.k
+<h3 align="left">Connect with me:</h3>
+
+<p align="left">
+<a href="[YOUR_LINKEDIN](https://www.linkedin.com/in/abdul-moeez/)"><img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" /></a>
+<a href="[YOUR_INSTAGRAM](https://instagram.com/moeez.k)"><img align="center" src="https://skillicons.dev/icons?i=instagram" height="40" /></a>
+</p>
+
+---
+
+<h3 align="left">Languages and Tools:</h3>
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=laravel,php,react,nextjs,js,ts,html,css,tailwind,mysql,redis,nodejs,linux,nginx,git,docker,wordpress,vscode" />
+</p>
+
+---
+
+<h3 align="left">Featured Projects:</h3>
+
+### 🔹 WebQA
+A SaaS platform for automated website auditing focused on SEO, accessibility, performance, and security analysis.
+
+### 🔹 Reclaim
+Campus lost-and-found platform built during .devHacks 2026 to improve item recovery for students.
+
+### 🔹 CoronavirusPak
+Public awareness platform with blogs, maps, and self-assessment tools built using Laravel/PHP.
+
+### 🔹 Cupello Tactics Board
+Interactive football tactics board work using React and canvas-based frontend interactions.
+
+---
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=abdulmoeez&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+</p>
