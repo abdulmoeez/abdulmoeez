@@ -13,6 +13,8 @@
 
 - 🏆 Fiverr Level 2 Seller since 2019
 
+- 📘 Author of Freelance Newbie — a guide for aspiring freelancers and self-taught developers
+  
 - ♟ President of the University Of Manitoba Chess Club & CUCC 2026 competitor
 
 - 🌱 Currently learning more about scalable systems, AI integrations & product engineering
@@ -20,6 +22,8 @@
 - 📫 Reach me at: **abdulmoeez.me@gmail.com**
 
 - 🌐 Portfolio: **https://moeez.ca**
+
+-  💼 Fiverr: **https://www.fiverr.com/flake_webby/**
 
 ---
 
